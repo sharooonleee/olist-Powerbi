@@ -15,10 +15,18 @@ Data Cleaning and Preprocessing
 
 
 Drop incomplete data:
+
+
 To ensure accuracy and precision in the analysis, data from the incomplete year 2016 and dates after August 2018 were excluded  to avoid biases and ensure the dataset represents a complete time series for the selected period.
-Translation of Brazilian  Reviews:
+Translation of Brazilian Reviews:
+
+
 For the reviews dataset, due to the fact that the language in the reviews are in Brazilian, we translated all reviews to English.
+
+
 Sentimental Analysis:
+
+
 In order to determine the overall sentiment (positive, negative, neutral) of each review, we made use of Python libraries  TextBlob for sentiment analysis.
 
 Introduction to PowerBi Interface
