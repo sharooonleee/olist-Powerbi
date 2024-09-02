@@ -144,7 +144,7 @@ Most customers prefer to pay in full, with 50.6% opting for full-pay rather than
 ![bi reviews](https://github.com/user-attachments/assets/3c2ebbad-51be-4d8f-a696-dc428d1cb8e7)
 The reviews page visualization provides insights into customer feedback and sentiment, which are crucial for understanding customer satisfaction and areas for improvement. Here's how each component can help stakeholders understand the dataset:
 
-### 5.1 Customer Satisfaction:
+### Understanding Customer Satisfaction:
 
 ### 5.2 Sentiment Analysis: 
 Shows the distribution of positive, neutral, and negative reviews, helping stakeholders gauge overall customer satisfaction.
@@ -164,6 +164,7 @@ Review Score Distribution: Helps understand the overall perception of the compan
 
 ### information For Customers Analysis
 Customer’s personal information, for instance, gender, age…etc, are unavailable. We are unable to further analyze the correlation of customer age/gender and sales performance.
+### information For Late Delivery Analysis
 Insufficient information for Late Delivery Analysis Seller coordinates are unavailable and we are unable to analyze the correlation of late delivery products and the delivery  distance between sellers and customers.
 
 ## Conclusion:
