@@ -8,9 +8,12 @@ Data Visualization Mini Project:
 Marketing Analysis on Brazilian E-Commerce Public Dataset by Olist
 
 Project Overview
+
 This project utilizes a Brazilian e-commerce public dataset from Olist Store, focusing on marketing analysis through various visualizations created in Power BI. The dataset includes comprehensive data on 100k orders made between November 2016 and November 2018 across multiple marketplaces in Brazil. The analysis aims to explore order trends, customer behavior, delivery performance, payment methods, and product reviews.
 
 Data Cleaning and Preprocessing
+
+
 Drop incomplete data
 To ensure accuracy and precision in the analysis, data from the incomplete year 2016 and dates after August 2018 were excluded  to avoid biases and ensure the dataset represents a complete time series for the selected period.
 Translation of Brazilian  Reviews
@@ -19,6 +22,8 @@ Sentimental Analysis
 In order to determine the overall sentiment (positive, negative, neutral) of each review, we made use of Python libraries  TextBlob for sentiment analysis.
 
 Introduction to PowerBi Interface
+
+
 Visualizations in our PowerBi interface collectively provide a comprehensive overview of Olist's operations, helping to identify trends, strengths, and areas for improvement across sales, delivery, payment, and ordering processes.
 
 In detail, we mainly focused on the following 5 aspects:
@@ -27,13 +32,27 @@ Order Trends and Seasonal Analysis
 ![bi sales trend](https://github.com/user-attachments/assets/d7083ed2-9f1f-416a-8467-d21fd906f94a)
 This visualization aims to offer stakeholders a comprehensive view of Olist's sales performance, which helps stakeholders understand sales dynamics, evaluate business strategies, and make informed decisions to drive growth.
 Performance Tracking
-Sales and Order Trends: Displays the correlation between sales value and order count over time, helping stakeholders track performance and growth.
+
+
+Sales and Order Trends: 
+
+Displays the correlation between sales value and order count over time, helping stakeholders track performance and growth.
 Growth Analysis
-Year-over-Year Growth: Highlights significant growth in orders (135.07%) and sales (136.98%), indicating successful strategies or market expansion.
+Year-over-Year Growth: 
+
+Highlights significant growth in orders (135.07%) and sales (136.98%), indicating successful strategies or market expansion.
 Seasonal Insights
-Seasonal Analysis of Orders: Identifies patterns in order volumes across different months, aiding in inventory and marketing planning.
+
+
+Seasonal Analysis of Orders: 
+
+Identifies patterns in order volumes across different months, aiding in inventory and marketing planning.
 Customer and Seller Dynamics
-Count of Sellers and Customers: Shows the growth in both sellers and customers, providing insights into market penetration and platform expansion.
+
+
+Count of Sellers and Customers: 
+
+Shows the growth in both sellers and customers, providing insights into market penetration and platform expansion.
 
 Findings:
 The analysis reveals that  a total of 99k orders from 96k customers and 3095 sellers. The year-over-year (YoY) sales growth is significant at 136.98%, although a month-over-month (MoM) decrease of 4.14% suggests seasonal fluctuations. 
