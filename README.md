@@ -18,7 +18,8 @@ This project utilizes a Brazilian e-commerce public dataset from Olist Store, fo
 
 
 To ensure accuracy and precision in the analysis, data from the incomplete year 2016 and dates after August 2018 were excluded  to avoid biases and ensure the dataset represents a complete time series for the selected period.
-Translation of Brazilian Reviews:
+
+### 2. Translation of Brazilian Reviews:
 
 
 For the reviews dataset, due to the fact that the language in the reviews are in Brazilian, we translated all reviews to English.
